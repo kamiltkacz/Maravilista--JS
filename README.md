@@ -1,5 +1,5 @@
-# To-Do-list-JS
-To-Do list done with HTML, CSS, JavaScript and JQuery.
+# Task Manager -JS
+Task Manager WebApp done with HTML, CSS, JavaScript and JQuery.
 
 
 Hi Everyone, This is my project I worked on while doing a Front-End Development course in JavaScript in Brasilia, Brazil.
